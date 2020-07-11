@@ -1,0 +1,160 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Socket",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "c46a3d41f5b2401d18bcb46d0101cdc5cd13e307",
+          "version": "1.0.52"
+        }
+      },
+      {
+        "package": "SSLService",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSSLService.git",
+        "state": {
+          "branch": null,
+          "revision": "ab2c2aa2fe574969f391c80ee87746be431dee0e",
+          "version": "1.0.52"
+        }
+      },
+      {
+        "package": "Configuration",
+        "repositoryURL": "https://github.com/IBM-Swift/Configuration.git",
+        "state": {
+          "branch": null,
+          "revision": "da98da148509a3d7bd61fe01e7ade8926b52026b",
+          "version": "3.0.4"
+        }
+      },
+      {
+        "package": "FileKit",
+        "repositoryURL": "https://github.com/IBM-Swift/FileKit.git",
+        "state": {
+          "branch": null,
+          "revision": "26911acde61a3556b7583f84180048ea6a03973c",
+          "version": "0.0.2"
+        }
+      },
+      {
+        "package": "Kitura",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura",
+        "state": {
+          "branch": null,
+          "revision": "bbb7462ac3d422cad4480a57ddbd33263c381a7b",
+          "version": "2.9.1"
+        }
+      },
+      {
+        "package": "KituraCORS",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-CORS.git",
+        "state": {
+          "branch": null,
+          "revision": "1d365a17dd609339b3e9a8df67bbae6d7a35d039",
+          "version": "2.1.1"
+        }
+      },
+      {
+        "package": "Kitura-net",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-net.git",
+        "state": {
+          "branch": null,
+          "revision": "00985729329b73f3e20e40ec43071e4c294dfea3",
+          "version": "2.4.0"
+        }
+      },
+      {
+        "package": "KituraOpenAPI",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-OpenAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "7761bdfcbe16b74913fff12f5c523a75ec4c8f09",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "Kitura-TemplateEngine",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-TemplateEngine.git",
+        "state": {
+          "branch": null,
+          "revision": "d62d74bca48c6fb76f9fc1f48eeb2d7af415e80b",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "KituraContracts",
+        "repositoryURL": "https://github.com/IBM-Swift/KituraContracts.git",
+        "state": {
+          "branch": null,
+          "revision": "a30e2fb79e926672776a05ec6b919c239870a221",
+          "version": "1.2.1"
+        }
+      },
+      {
+        "package": "LoggerAPI",
+        "repositoryURL": "https://github.com/IBM-Swift/LoggerAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "3357dd9526cdf9436fa63bb792b669e6efdc43da",
+          "version": "1.9.0"
+        }
+      },
+      {
+        "package": "CloudFoundryEnv",
+        "repositoryURL": "https://github.com/IBM-Swift/Swift-cfenv.git",
+        "state": {
+          "branch": null,
+          "revision": "b6625a49d65f83036f0e9922b7e9f2fa66cb623e",
+          "version": "6.0.3"
+        }
+      },
+      {
+        "package": "SwiftKuery",
+        "repositoryURL": "https://github.com/IBM-Swift/Swift-Kuery.git",
+        "state": {
+          "branch": null,
+          "revision": "d8e7cba51c6ca75de23b0229f584b536492ce23e",
+          "version": "3.0.1"
+        }
+      },
+      {
+        "package": "SwiftKueryORM",
+        "repositoryURL": "https://github.com/IBM-Swift/Swift-Kuery-ORM",
+        "state": {
+          "branch": null,
+          "revision": "2c8638e787f4f48e4dd98cb162b87d08b5001d61",
+          "version": "0.6.1"
+        }
+      },
+      {
+        "package": "SwiftKueryPostgreSQL",
+        "repositoryURL": "https://github.com/IBM-Swift/Swift-Kuery-PostgreSQL",
+        "state": {
+          "branch": null,
+          "revision": "b0d44d2521f82cda1da800560a03a9c807f0e784",
+          "version": "2.1.1"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "57c6bd04256ba47590ee2285e208f731210c5c10",
+          "version": "1.3.0"
+        }
+      },
+      {
+        "package": "TypeDecoder",
+        "repositoryURL": "https://github.com/IBM-Swift/TypeDecoder.git",
+        "state": {
+          "branch": null,
+          "revision": "a5978582981f7151594bdaf5fe0d3cd9b1d2d0c0",
+          "version": "1.3.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
